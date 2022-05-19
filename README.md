@@ -15,4 +15,3 @@
 - 시간과 관련된 변수에 대해 적절한 가정(2016년 데이터)을 통하여 변수를 가공하였습니다.
 
 - 모델 학습 시 필요 없는 변수를 제거 : Communication (유/무선 전화 응답 여부)
-# Cold-Calls-Data-Mining-and-Model-Selection
